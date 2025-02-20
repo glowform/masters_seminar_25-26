@@ -6,13 +6,13 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 ## Meetings
 
-Meeting will be held on Fridat at 9:45 in class B109
+Meetings will be held on Fridays at 9:45 in room B109.
 
-For hybrid or online meeting pleas use: https://meet.google.com/xfv-uqqy-bgg
+For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 
 ## Requiremets for first semester
 
-- Each student needs to present insights about two academic papers related to their area of interest (or thesis subject).
-- Prepare a work schedule for your research and thesis work (form will be avaialble at one of our next meetings).
+- Each student must present insights on two academic papers related to their area of interest (or thesis subject).
+- Prepare a work schedule for your research and thesis work (the form will be available at one of our next meetings).
 
 ## Announcements
