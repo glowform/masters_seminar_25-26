@@ -20,3 +20,5 @@ For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 ## Announcements
 
 ## Materials and resources
+
+USOS Link: [USOS](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=2400-ENSM100A&lang=en)
