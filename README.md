@@ -1,4 +1,6 @@
 # masters_seminar_25-26
+Investment Strategies with New Classes of Assets
+
 Masters Seminar for students starting in summer 2025
 
 dr Paweł Sakowski, email: p.sakowski@uw.edu.pl\
