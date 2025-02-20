@@ -16,3 +16,5 @@ For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 - Prepare a work schedule for your research and thesis work (the form will be available at one of our next meetings).
 
 ## Announcements
+
+## Materials and resources
