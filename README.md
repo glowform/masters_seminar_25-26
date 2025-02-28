@@ -21,6 +21,8 @@ For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 
 ## Materials and resources
 
+Google Drive: [Google Drive](https://drive.google.com/drive/folders/1f14T23jguno6d9rbTqy7lktfJVHRnHbf?usp=sharing)
+
 USOS Link: [USOS](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=2400-ENSM100A&lang=en) \
 Google Scholar: https://scholar.google.com/ \
 Arxiv: https://arxiv.org/ \
