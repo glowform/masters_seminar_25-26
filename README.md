@@ -8,7 +8,7 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 ## Meetings
 
-Meetings will be held on **Fridays at 9:45 in room B109**.
+Meetings will be held on **Fridays at 9:45 in room B102**.
 
 For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 
