@@ -15,7 +15,14 @@ For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 ## Requiremets for first semester
 
 - Each student must present insights on two academic papers related to their area of interest (or thesis subject).
-- Prepare a work schedule for your research and thesis work (the form will be available at one of our next meetings).
+- Prepare a work schedule for your research and thesis, including the subject and main hypothesis (the form will be available at one of our upcoming meetings).
+
+### General rules
+
+- You can only be absent three times during the semester.
+- If you can't do your presentation on the specified day, you need to find someone to switch with you. We should have two presentations in a single meeting.
+- If you're joining online, please have your camera on and be active.
+- Please be on time and don't leave in the middle of a meeting.
 
 ## Announcements
 
