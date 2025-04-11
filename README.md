@@ -30,7 +30,7 @@ For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 
 USOS Link: [USOS](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=2400-ENSM100A&lang=en) \
 Google Scholar: https://scholar.google.com/ \
-Arxiv: https://arxiv.org/ \
-SSRN: https://www.ssrn.com/index.cfm/en/ \
+Arxiv: https://arxiv.org/ (preprints, be careful with quality of articles)\
+SSRN: https://www.ssrn.com/index.cfm/en/ (preprints, be careful with quality of articles)\
 Researchgate: https://www.researchgate.net/ \
 WNE: [Working Papers](https://www.wne.uw.edu.pl/badania-i-nauka/wydawnictwa-naukowe/working-papers)
