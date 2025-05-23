@@ -15,7 +15,7 @@ For hybrid or online meetings, please use:  https://meet.google.com/xfv-uqqy-bgg
 ## Requiremets for first semester
 
 - Each student must present insights on two academic papers related to their area of interest (or thesis subject).
-- Prepare a work schedule for your research and thesis, including the subject and main hypothesis (the form will be available at one of our upcoming meetings).
+- Prepare a work schedule for your research and thesis, including the subject and main hypothesis.
 
 ### General rules
 
